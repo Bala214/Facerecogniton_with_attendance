@@ -26,5 +26,5 @@ The Output will be like below.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Bala214/Facerecogniton_with_attendance/blob/main/Face%20recognition/Screenshot.png)
 
